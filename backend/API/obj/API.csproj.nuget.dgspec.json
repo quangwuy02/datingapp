@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Project\\datingapp\\backend\\API\\API.csproj": {}
+    "D:\\Project\\datingapp\\backend\\API\\API.csproj": {}
   },
   "projects": {
-    "d:\\Project\\datingapp\\backend\\API\\API.csproj": {
+    "D:\\Project\\datingapp\\backend\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Project\\datingapp\\backend\\API\\API.csproj",
+        "projectUniqueName": "D:\\Project\\datingapp\\backend\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "d:\\Project\\datingapp\\backend\\API\\API.csproj",
+        "projectPath": "D:\\Project\\datingapp\\backend\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Huy\\.nuget\\packages\\",
-        "outputPath": "d:\\Project\\datingapp\\backend\\API\\obj\\",
+        "outputPath": "D:\\Project\\datingapp\\backend\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
