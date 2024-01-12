@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\datingapp\\API\\API.csproj",
+      "projectUniqueName": "D:\\Project\\datingapp\\backend\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Project\\datingapp\\API\\API.csproj",
+      "projectPath": "D:\\Project\\datingapp\\backend\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Huy\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\datingapp\\API\\obj\\",
+      "outputPath": "D:\\Project\\datingapp\\backend\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
